@@ -1,0 +1,12 @@
+Project : Twins
+Package Name : com.Twins1234
+project Version : 0.1
+Bundle Number : 1
+
+
+keystore Details :
+File Name : Twins.keystore
+keystor Name : Twins
+Password : Twins1
+Alias Name : twins
+Password : Twins1
